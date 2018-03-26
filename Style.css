@@ -1,0 +1,7 @@
+﻿body
+li[id=odd]{color:#3063db
+}
+li[id=even]{background-color:black; color:whitesmoke
+}
+hr {margin-top:8px; color:aquamarine
+}
